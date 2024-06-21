@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Jun 2024 00:20:25 at https://7oroof.com/tfdemos/trevox/home-trendy/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://7oroof.com/tfdemos/trevox/home-trendy/ -O1 "C:\My Web Sites\Trendy-home" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:22:43	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=290
+00:22:43	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=290 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:22:43	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=280
+00:22:43	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=280 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:22:43	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=268
+00:22:43	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=268 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:22:44	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=260
+00:22:44	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=260 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:22:44	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=249
+00:22:44	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=249 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:22:44	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=239
+00:22:44	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=239 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:22:44	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=218
+00:22:44	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=218 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:22:45	Warning: 	Found for https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=222
+00:22:45	Warning: 	File has moved from https://7oroof.com/tfdemos/trevox/home-trendy/?add-to-wishlist=222 to https://7oroof.com/tfdemos/trevox/wishlist/WOOSW
+00:22:47	Error: 	"Not Found" (404) at link https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/images/pointer-mouse-black.png (from https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/css/theme.css?ver=1.0.1)
+00:22:47	Error: 	"Not Found" (404) at link https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/images/pointer-close-black.png (from https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/css/theme.css?ver=1.0.1)
+00:22:47	Error: 	"Not Found" (404) at link https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/images/pointer-play-video-black.png (from https://7oroof.com/tfdemos/trevox/wp-content/themes/trevox/assets/css/theme.css?ver=1.0.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 22 seconds : 161 links scanned, 149 files written (6259479 bytes overall) [2974243 bytes received at 20945 bytes/sec], 6498705 bytes transferred using HTTP compression in 130 files, ratio 18%, 20.1 requests per connection
+(3 errors, 16 warnings, 0 messages)
